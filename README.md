@@ -2,10 +2,14 @@
 ## Backend Developer em formação | Java • APIs REST
 
 ### 🌟 Projetos Principais
-☕ coffeCafe — Sistema completo em Java com interface, lógica de negócios e estrutura organizada.
+☕ coffeCafe — Sistema completo em Java com interface, lógica de negócios e estrutura organizada. 
+
 💰 PayPlusApp — Aplicação Java simulando funcionalidades financeiras e regras de negócio.
+
 📑 sistema-Orcamentos — Sistema de orçamentos usando Java, com organização e estrutura clara de backend.
+
 🎮 Jogo_do_quinze — Implementação lógica e algoritmos para o clássico jogo deslizante.
+
 🎵 app_musicSchool — Sistema para gerenciamento de escola de música, com foco em estrutura e lógica.
 
 
