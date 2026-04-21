@@ -1,5 +1,7 @@
 # Olá! Eu sou a Fernanda Almeida
-## Backend Developer em formação | Java • APIs REST
+### Adoro criar coisas novas para facilitar o seu dia a dia!
+
+## Fullstack Developer em formação | Java • APIs REST
 
 ### 🌟 Projetos Principais
 ☕ coffeCafe — Sistema completo em Java com interface, lógica de negócios e estrutura organizada. 
