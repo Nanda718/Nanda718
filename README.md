@@ -1,9 +1,9 @@
-# Olá! Eu sou a Fernanda Almeida
+# Olá! Eu sou a Fernanda Pita 🌟
 ### Adoro criar coisas novas para facilitar o seu dia a dia!
 
 ## Fullstack Developer em formação | Java • APIs REST
 
-### 🌟 Projetos Principais
+### Projetos Principais
 ☕ coffeCafe — Sistema completo em Java com interface, lógica de negócios e estrutura organizada. 
 
 💰 PayPlusApp — Aplicação Java simulando funcionalidades financeiras e regras de negócio.
