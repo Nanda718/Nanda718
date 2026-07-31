@@ -1,16 +1,16 @@
 # Olá! Eu sou a Fernanda Pita 🌟
 ### Adoro criar coisas novas para facilitar o seu dia a dia!
 
-## Fullstack Developer em formação | Java • APIs REST
+## Fullstack Developer em formação | Java • APIs REST • HTML5|CSS|JavaScript
 
 ### Projetos Principais
-☕ coffeCafe — Sistema completo em Java com interface, lógica de negócios e estrutura organizada. 
+☕ coffeCafe — Sistema em desenvolvimento usando Java, possuindo lógica de negócios e estrutura organizada. 
 
 💰 PayPlusApp — Aplicação Java simulando funcionalidades financeiras e regras de negócio.
 
-📑 sistema-Orcamentos — Sistema de orçamentos usando Java, com organização e estrutura clara de backend.
+🌷 Petalyn - Landing Page para uma floricultura fictícia usando HTML, CSS e JavaScript
 
-🎮 Jogo_do_quinze — Implementação lógica e algoritmos para o clássico jogo deslizante.
+🎮 Jogo_do_quinze — Implementação lógica e algoritmos usando C para o clássico jogo deslizante.
 
 🎵 app_musicSchool — Sistema para gerenciamento de escola de música, com foco em estrutura e lógica.
 
@@ -23,4 +23,4 @@
 
 ### 🤝 Contato
 📫 Email: fernanda.pita79@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/fernanda-almeida
+💼 LinkedIn: www.linkedin.com/in/fernanda-pita
